@@ -4,6 +4,7 @@
 - TypeScript
 - Framer Motion
 - Tailwind CSS
+- Responsive Website và Mobile
 
 ## Run 
 - `npm install`
